@@ -4,7 +4,7 @@ A live voice AI agent that answers calls for a (fictional) home services company
 
 **Stack:** Retell AI (voice agent + LLM + function calling) · Make.com (automation/orchestration) · Google Sheets (lead log) · Gmail (emergency alerting) · Google Calendar (live scheduling)
 
-**▶ [Watch the demo]https://www.loom.com/share/ce247612defe443e88056ae17d369126** — a 6-8 minute walkthrough of a live call, the architecture, and the bugs I had to debug along the way.
+**▶ [Watch the demo](https://www.loom.com/share/ce247612defe443e88056ae17d369126)** — a 6-8 minute walkthrough of a live call, the architecture, and the bugs I had to debug along the way.
 ---
 
 ## Why this project
